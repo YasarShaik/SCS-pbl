@@ -64,7 +64,7 @@ This repository focuses on the embedded implementation using the **ARM Cortex-M 
 - GPS tracking for surface positioning
 - Energy-efficient sleep modes
 
----
+  
 
 ## Outcome
 
