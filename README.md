@@ -13,7 +13,7 @@ To ensure real-time safety alerts and reliable data transmission from deep under
 
 The overall goal is to simulate the signal behavior under underground conditions and prepare for hardware implementation in the future. This system bridges the gap between communication theory and real-world mining safety technology.
 
----
+
 
 ## Embedded System Implementation
 
@@ -39,7 +39,7 @@ This repository focuses on the embedded implementation using the **ARM Cortex-M 
 4. Encoded binary data is transmitted via UART
 5. Data is sent to a communication module (e.g., LoRa, Zigbee) for wireless transmission
 
----
+
 
 ## Warning & Response System
 
@@ -47,7 +47,7 @@ This repository focuses on the embedded implementation using the **ARM Cortex-M 
 - Optionally connected display (e.g., OLED/LCD) to show status
 - Data sent to a central base station for supervisor monitoring
 
----
+
 
 ## Power Supply System
 
@@ -56,7 +56,7 @@ This repository focuses on the embedded implementation using the **ARM Cortex-M 
 - Voltage regulation using LM7805 or AMS1117
 - Capacitor filtering to eliminate ripples
 
----
+
 
 ## Future Add-ons
 
