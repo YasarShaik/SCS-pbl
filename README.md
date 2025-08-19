@@ -51,5 +51,3 @@ This repository focuses on the embedded implementation using the **ARM Cortex-M 
 
 ## Outcome
 This implementation provides the foundation for a reliable, real-time, embedded safety system in mines. Combined with the SCS simulations, it offers a practical solution ready for deployment and scalability.
-
-good morning
