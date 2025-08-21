@@ -42,10 +42,10 @@ This repository focuses on the embedded implementation using the **ARM Cortex-M 
 - Designed for portability and underground resilience
 - Battery-operated (Li-Ion/3.7V with Boost Converter)
 - Voltage regulation using LM7805 or AMS1117
-- Capacitor filtering to eliminate ripples
+- Capacitor filtering to delete ripples
 
 ## Future Add-ons
-- Integration with cloud servers via Wi-Fi/Bluetooth gateways
+- Integration  with cloud servers via Wi-Fi/Bluetooth gateways
 - GPS tracking for surface positioning
 - Energy-efficient sleep modes
 
