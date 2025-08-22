@@ -1,4 +1,4 @@
-# Smart Helmet for Mining Safety 
+# MineNet: Bare-Metal Mesh Telemetry for Mining Helmets
 
 This project aims to enhance underground mining safety through a smart helmet that integrates sensors, signal modeling, and embedded communication systems. It monitors:
 
