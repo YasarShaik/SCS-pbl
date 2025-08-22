@@ -86,7 +86,6 @@ It combines bare-metal embedded programming, mesh networking, and real-time tele
 - Processor view: Limited space/power, so firmware must be optimized.  
 - Signals & Comms view: Dust, reflections, multipath propagation must be handled in protocol design.
 
----
 
 ## Processor Perspective
 - Direct bare-metal control → efficient and deterministic timing.
@@ -99,7 +98,6 @@ It combines bare-metal embedded programming, mesh networking, and real-time tele
 - Reliability mechanisms: ACKs, retransmissions, and collision handling improve robustness.  
 - Range extension: more helmets = stronger network, even without line-of-sight.
 
----
 
 ## Summary
 MineNet is a bare-metal, mesh-based telemetry system embedded into mining helmets.  
